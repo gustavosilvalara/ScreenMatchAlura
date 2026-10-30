@@ -1,0 +1,8 @@
+{
+  "nome": "Astra",
+  "marca": "Chrevolet",
+  "modelo": "Carro",
+  "potencia": 128,
+  "valor": 25432.2,
+  "serie": 23121
+}
