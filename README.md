@@ -60,4 +60,4 @@ src/
 
 ---
 
- Desenvolvido por Gustavo Silva Lara (https://github.com/seu-usuario) durante o curso da **Alura**.
+ Desenvolvido por Gustavo Silva Lara (https://github.com/gustavosilvalara) durante o curso da **Alura**.
